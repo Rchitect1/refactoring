@@ -1,3 +1,4 @@
-231fb2f (HEAD -> main, origin/main, origin/HEAD) Finished Task 1.2
+0c71fee (HEAD -> main, origin/main, origin/HEAD) Finished Task 2.1
+231fb2f Finished Task 1.2
 5dd9f21 Finished Task 1.1
 b85ca0b Initial commit
